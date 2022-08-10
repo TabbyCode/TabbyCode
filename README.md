@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align='center'>
+    <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
+</p>
 
 <p align='center'>
     <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=xurvan&logo=Github&style=for-the-badge&color=16a085'>
