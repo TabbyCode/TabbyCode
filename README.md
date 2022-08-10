@@ -1,5 +1,5 @@
 <p align='center'>
-    <img alt='GIF' src='https://github.com/xurvan/xurvan/blob/486087966b7bb997828f44a8df950bc646ca6ff1/res/coding.gif' width='600' height='300' />
+    <img alt='GIF' src='https://github.com/xurvan/xurvan/raw/master/res/coding.gif' width='600' height='300' />
 </p>
 
 <p align='center'>
