@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p align='center'>
+    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=xurvan&logo=Github&style=for-the-badge&color=16a085'>
+    <a href='https://stackoverflow.com/users/4155138/xurvan' target='_blank'>
+        <img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'/>
+    </a>
+    <a href='mailto:xurvan@gmail.com' target='_blank'>
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+    </a>
+</p>
+
 ## **CODING STATS**
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=xurvan&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
