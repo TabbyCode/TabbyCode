@@ -3,7 +3,6 @@
 </p>
 
 <p align='center'>
-    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=xurvan&logo=Github&style=for-the-badge&color=16a085'>
     <a href='https://stackoverflow.com/users/4155138/xurvan' target='_blank'>
         <img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'/>
     </a>
