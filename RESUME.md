@@ -19,13 +19,13 @@ Accomplished Lead Software Engineer and Blockchain Developer with a proven track
 Cosmos SDK, Hyperledger, Solidity, Rust, Ethereum (EVM), Bitcoin (UTXO), Web3
 
 ### Backend
-Go, Node.js, Python, PostgreSQL, Oracle, Elasticsearch, MongoDB, Neo4j, CQRS, DDD, Clean Architecture, Event-driven, Kafka, Temporal, gRPC
+Golang (Go), Node.js, Python, PostgreSQL, Oracle, Elasticsearch, MongoDB, Neo4j, CQRS, DDD, Clean Architecture, Event-driven, Kafka, Temporal, gRPC
 
 ### Frontend
 JavaScript, TypeScript, React, Nx, Next.js, Storybook, Selenium, Playwright
 
 ### DevOps
-AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes, Docker Swarm, Git, Linux
+AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Docker Swarm, Git, Linux
 
 ---
 
