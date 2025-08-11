@@ -50,12 +50,6 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes, Docker Swa
 - Enhanced query performance by 20X through CQRS implementation with separated read/write databases
 - Built comprehensive API gateway with load balancing, authentication, and rate limiting for 5,000+ daily users
 
-### Senior Backend Developer
-**Science and Technology Park** - *Startup innovation hub* | *June 2017—August 2021*
-
-### Full Stack Developer
-**Freelancer** | *April 2012—May 2017*
-
 ---
 
 ## Projects
