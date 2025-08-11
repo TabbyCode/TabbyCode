@@ -29,28 +29,6 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Dock
 
 ---
 
-## Soft Skills
-
-### Problem Solving
-Strong analytical skills demonstrated by enhancing protocol design, improving performance by 20X, and ensuring 99.9% uptime
-
-### Communication & Collaboration
-Excellent communication skills, effectively collaborating with cross-functional teams and partners
-
-### Adaptability & Learning
-Quickly adapts to new technologies and challenges in the fast-paced FinTech and DeFi sectors
-
-### Attention to Detail
-Meticulous approach to code review, security analysis, and ensuring transaction auditability
-
-### Strategic Planning
-Expertise in architecting complex, scalable systems and migrating legacy architectures to modern, efficient microservices
-
-### Leadership & Mentorship
-Proven ability to lead and mentor engineering teams, fostering skill development and a collaborative environment
-
----
-
 ## Professional Experience
 
 ### Senior Blockchain Developer
@@ -108,3 +86,25 @@ Proven ability to lead and mentor engineering teams, fostering skill development
 ### Bachelor of Science in Computer Science
 **Azad University** | *2017*
 - Focus on software engineering fundamentals and computer science principles
+
+---
+
+## Soft Skills
+
+### Problem Solving
+Strong analytical skills demonstrated by enhancing protocol design, improving performance by 20X, and ensuring 99.9% uptime
+
+### Communication & Collaboration
+Excellent communication skills, effectively collaborating with cross-functional teams and partners
+
+### Adaptability & Learning
+Quickly adapts to new technologies and challenges in the fast-paced FinTech and DeFi sectors
+
+### Attention to Detail
+Meticulous approach to code review, security analysis, and ensuring transaction auditability
+
+### Strategic Planning
+Expertise in architecting complex, scalable systems and migrating legacy architectures to modern, efficient microservices
+
+### Leadership & Mentorship
+Proven ability to lead and mentor engineering teams, fostering skill development and a collaborative environment
