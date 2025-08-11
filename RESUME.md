@@ -78,3 +78,11 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes, Docker Swa
 - Neo4j served as the ideal tool for efficiently handling this complex data
 - Implemented a hot-warm-cold architecture utilizing Elastic, which significantly improved our response times
 - **Tech Stack:** Python, Kafka, Elasticsearch, React, Neo4j
+
+---
+
+## Education
+
+### Bachelor of Science in Computer Science
+**Azad University** | *2017*
+- Focus on software engineering fundamentals and computer science principles
