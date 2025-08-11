@@ -33,28 +33,28 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Dock
 
 ### Senior Blockchain Developer
 **[Apybara (Coinbase partner)](https://www.staking.xyz/)** - *ZeroKnowledge DeFi infrastructure* | *06/2024—06/2025*
-- Built staking tools for a zero-knowledge proof blockchain (Aleo), serving over 2,000 active users
-- Architected a microservice infrastructure using gRPC and Temporal for inter-service communication, achieving sub-100ms response times
-- Enhanced protocol design and security by analyzing the source code of major DeFi protocols, including Lido, UniSwap, and Pondo
-- Operated and maintained validators for Aleo, Ethereum, and Cosmos networks with 99.8% uptime
+- Built staking tools for a zero-knowledge proof blockchain (**Aleo**), serving over **2,000+ active users**
+- Architected a **microservice** infrastructure using **gRPC** and **Temporal** for inter-service communication, achieving **sub-100ms** response times
+- Enhanced protocol design and security by analyzing major DeFi protocols, including **Lido**, **Uniswap**, and **Pondo**
+- Operated and maintained validators for **Aleo**, **Ethereum**, and **Cosmos** networks with **99.8% uptime**
 
 ### Lead Software Engineer
 **[Zion Payment](https://zionpayment.com/)** - *Crypto payment solutions* | *05/2022—05/2024*
-- Architected and implemented a scalable microservice architecture using Golang, handling 1,000+ daily transactions
-- Integrated payment processing with 12+ blockchain networks (Ethereum, Bitcoin, Tron, XRP), achieving 99.9% uptime
-- Developed and maintained a React/TypeScript frontend application serving 5,000+ active users
-- Implemented CI/CD pipeline using GitHub Actions, reducing deployment time from 2 hours to 15 minutes
-- Established comprehensive E2E testing suite using Playwright, achieving 90% test coverage
-- Led and mentored a cross-functional team of 8 developers, conducting code reviews and upskilling 3 junior developers to mid-level roles
+- Architected and implemented a scalable **microservice** architecture using **Golang**, handling **1,000+ daily transactions**
+- Integrated payment processing with **12+ blockchain networks** (**Ethereum**, **Bitcoin**, **Tron**, **XRP**), achieving **99.9% uptime**
+- Developed and maintained a **React/TypeScript** frontend serving **5,000+ active users**
+- Implemented **CI/CD** pipeline using **GitHub Actions**, reducing deployment time from **2 hours to 15 minutes**
+- Established comprehensive **E2E testing** suite using **Playwright**, achieving **90% test coverage**
+- Led and mentored a **cross-functional team of 8** developers; upskilled **3 junior** developers to mid-level roles
 
 ### Lead Blockchain Developer
 **[THORSwap](https://www.thorswap.finance/)** - *Cross-chain DEX on THORChain* | *09/2021—04/2022*
-- Migrated legacy monolith architecture to microservices using Golang, achieving 90% cost reduction
-- Architected and developed blockchain-specific microservices for cross-chain swapping functionality
-- Implemented event-driven communication using Kafka and Confluent, indexing 100,000+ daily transactions
-- Applied event sourcing pattern for blockchain data persistence, ensuring complete transaction auditability
-- Enhanced query performance by 20X through CQRS implementation with separated read/write databases
-- Built comprehensive API gateway with load balancing, authentication, and rate limiting for 5,000+ daily users
+- Migrated legacy **monolith** to **microservices** using **Golang**, achieving **90% cost reduction**
+- Architected and developed blockchain-specific **microservices** for cross-chain swapping functionality
+- Implemented **event-driven** communication using **Kafka** and **Confluent**, indexing **100,000+ daily transactions**
+- Applied **event sourcing** for blockchain data persistence, ensuring complete transaction auditability
+- Enhanced query performance by **20×** through **CQRS** with separated read/write databases
+- Built a comprehensive **API gateway** with **load balancing**, **authentication**, and **rate limiting** for **5,000+ daily users**
 
 ---
 
