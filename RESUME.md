@@ -7,6 +7,12 @@
 
 ---
 
+## Professional Summary
+
+Accomplished Lead Software Engineer and Blockchain Developer with a proven track record of designing and implementing high-performance, scalable microservice architectures for the FinTech and DeFi sectors. Expert in full-stack development using Go, React, and Node.js, with deep specialization in blockchain technologies like Cosmos SDK, Ethereum, and Solidity. Demonstrated success in leading engineering teams to deliver cutting-edge solutions for crypto payments, cross-chain exchanges, and staking platforms, achieving significant improvements in performance, uptime, and cost efficiency.
+
+---
+
 ## Technical Skills
 
 ### Blockchain
