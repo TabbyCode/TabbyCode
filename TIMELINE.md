@@ -1,0 +1,22 @@
+# Timeline
+
+- **Jun 2025**: Married
+- **Jun 2024**: Joined Apybara (Coinbase partner) a ZeroKnowledge staking platform
+- **Feb 2024**: Implemented a P2P messenger based on Trystero
+- **Aug 2023**: Contributed to frontend development for the NighTrader team
+- **Jan 2023**: Initiated development of Layer (task manager) from scratch
+- **Jun 2022**: Founded Bàcktick group
+- **May 2022**: Started building Zion (crypto payment gateway) from scratch
+- **Sep 2021**: Joined THORSwap, a Decentralized Exchange on THORChain
+- **Jul 2021**: Joined a cryptocurrency exchange
+- **Mar 2021**: Entered first romantic relationship
+- **Nov 2020**: Started development of a housing platform
+- **Jun 2017**: Joined the Science and Technology Park
+- **Sep 2011**: Began university studies
+- **Jan 2010**: Founded first startup
+- **Apr 2008**: Undertook the first freelance project
+- **Aug 2007**: Began teaching computer skills
+- **Jun 2006**: Started first internship
+- **Sep 2005**: Enrolled in high school
+- **Sep 1998**: Began primary education
+- **Mar 1992**: Born
